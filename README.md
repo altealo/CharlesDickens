@@ -2,6 +2,7 @@
 Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
+| [Charles Babbage](https://github.com/altealo/CharlesBabbage/blob/master/README.md)|[Lee, J.A.N. *Computer Pioneers: Charles Babbage.*](https://history.computer.org/pioneers/babbage.html)|
 | [Sir James Clark](https://github.com/altealo/JamesClark/blob/master/README.md)|[Dickens, C. *The Unpublished Letters of Charles Dickens to Mark Lemon.*](https://books.google.co.uk/books?id=pN3FuTF-UlgC&pg=PA74&lpg=PA74&dq=letter+dickens+james+clark&source=bl&ots=0QbyClFNJs&sig=ACfU3U0fTXRkjbhDXfkYdOkXm9BzzkfQtQ&hl=en&sa=X&ved=2ahUKEwjFz-z_6dLlAhXmUxUIHQzYCSAQ6AEwEHoECAgQAQ#v=onepage&q=letter%20dickens%20james%20clark&f=false)|
 | [Mary Ann Evans/George Eliot](https://github.com/altealo/GeorgeEliot/blob/master/README.md)|[Cross, J.W. *The Works of George Eliot and life.*](https://georgeeliotarchive.org/files/original/51db8460a5c3f7c96ac66c9cdf972b5d.pdf)|
 | [Benjamin Jowett](https://github.com/altealo/BenjaminJowett/blob/master/README.md)|[Collins, P. *Charles Dickens: The Critical Heritage.*](https://books.google.co.uk/books?id=72brNWKa088C&pg=PT472&lpg=PT472&dq=benjamin+jowett+queen+victoria&source=bl&ots=gxfT25b-kT&sig=ACfU3U2hS2i1rAIUwLcKoaKtS8aC7b5DXA&hl=en&sa=X&ved=2ahUKEwiwiJXYsNHlAhV_URUIHY5OCjA4FBDoATAAegQICBAB#v=onepage&q=benjamin%20jowett%20queen%20victoria&f=false)|
